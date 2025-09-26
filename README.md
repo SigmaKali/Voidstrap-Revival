@@ -1,1 +1,126 @@
-# Voidstrap-Revival
+# 🌌 Voidstrap Revival
+
+<p align="center"><strong>Feeling nice?</strong></p>
+
+> ⚠️ **CAUTION**  
+> Voidstrap Revival is continued by original [Voidstrap](github.com/voidstrap/Voidstrap).
+
+---
+
+## 🚀 Quick Links
+
+<p align="center">
+  <a href="https://github.com/midaskira/Voidstrap/releases">
+    <img src="https://img.shields.io/github/downloads/midaskira/Voidstrap/total?color=981bfe&label=Downloads" alt="Downloads">
+  </a>
+  <a href="https://github.com/midaskira/Voidstrap/releases">
+    <img src="https://img.shields.io/github/v/release/midaskira/Voidstrap?color=7a39fb&label=Latest" alt="Latest Release">
+  </a>
+  <a href="https://github.com/midaskira/Voidstrap/stargazers">
+    <img src="https://img.shields.io/github/stars/midaskira/Voidstrap?color=FFD700&label=Stars" alt="Stars">
+  </a>
+  <a href="https://discord.gg/wdmYT9WKTX">
+    <img src="https://img.shields.io/discord/1368499843084845076?logo=discord&logoColor=white&label=Discord&color=4d3dff" alt="Join Discord">
+  </a>
+  <a href="https://www.virustotal.com/gui/file/a19d94eaed61dfa779610f1271a9379f2dae45d876e45564cd324b69c07e9a29">
+    <img src="https://img.shields.io/badge/Virus%20Free-✔️-00B140" alt="Virus Free">
+  </a>
+</p>
+
+---
+
+## ✨ Why Use Voidstrap?
+
+- ⚡ **Faster & Lighter** – Slimmed-down, tuned-up, and blazing fast.
+  
+- 🌀 **Multi-Instance Support** – Run multiple Roblox clients at once.
+  
+- 🌐 **Cross-Game Teleport** – No more Error 773 game switching.
+  
+- 🔧 **Channel Control** – Full access to Roblox's internal channel system.
+  
+- 🎨 **Customizable UI** – Modern themes, refined layout, and icon tweaks.
+  
+- 🚫 **Update Bypass** – Take control of forced Roblox updates.
+  
+- 🧠 **Stable & Smart** – Polished handling and fewer random errors.
+
+---
+
+## 📥 Installation
+
+1. **Download:** Get the latest release from the [Releases page](https://github.com/midaskira/Voidstrap/releases).
+2. **Install:** Open the installer and follow the setup.
+3. **Launch:** Experience Roblox like never before!
+
+---
+
+## 🧩 Features
+
+### 🔄 Integrations
+- **Player & Message Logs** – Track actions for moderation or debugging.
+- **Hardware Acceleration** – Disables Hardware Acceleration and UI animations
+- **Launch Roblox Studio** – Launch Studio via Voidstrap or shortcut
+- **AI Chat (BETA)** - Chat with a AI that only talks FFlags.
+- **Hub Page** – Get Themes, Mods, and FFlags from others
+- **Voidstrap Discord RPC** – Shows that you're using Voidstrap on Discord (can be disabled)
+- **Cross Game Teleport** - (Fixes Error 773)
+- **App CPU Limiter** - Limits the amount of CPU cores that Voidstrap Uses
+
+### ⚙️ Fast Flags
+- **Settings Backup** – Save and restore your custom config.
+- **Over 800+ FFlags in one place**
+- **Easy flag backups & restoration**
+- **FFlag History**
+- **Customizable Roblox menus**
+- **Remove Splash Warnings** – Skip unnecessary Roblox warnings.
+
+### 📡 Channel Management
+- **Prevent Forced Updates** – Stay on your terms.
+- **Channel Switcher** – Fine-tune your Roblox environment.
+
+### 🚀 Bootstrap Enhancements
+- **Multiple Instance Booting** – Great for developers and alt accounts.
+- **Theme Preview Mode** – See changes before applying
+- **Robust Error Management** – Stability first.
+- **Persistent Uninstall Settings** – Keeps your data intact.
+
+### 🎨 UI & Theming
+- **Live Theme Switching** – Customize on the go.
+- **Tailored themes** - for a personalized launcher
+- **Over 10+ Themes** - to select from
+- **Icon & Layout Tweaks** – Sleek and modern.
+- **Over 7+ Different Mouse Cursors to choose**
+
+### 🧠 Smart Utilities
+- **Session Memory** – Picks up where you left off.
+- **Log Cleaner** - Cleans all old log files to free space.
+- **Auto-Update Control** – Disable updates when needed.
+
+---
+
+## 🤝 Community & Support
+
+- 💬 **Join our Discord:** [Voidstrap Server](https://discord.gg/JkUPqtS7QR) for help, news, and chat.
+- 🐞 **Found a bug or have an idea?** Use our [Issues tab](https://github.com/midaskira/Voidstrap/issues).
+- ⭐ **Star the repo:** Show your support!
+
+---
+
+## 🙌 Credits
+
+### 👨‍💻 Core Team
+- **Bratic** – Owner · [GitHub](https://github.com/nobadboy)
+- **midaskira** – Co-Owner · [GitHub](https://github.com/midaskira)
+
+### 🧪 Contributors
+- [stoof](https://github.com/stoofis)
+- [Flemish](https://github.com/LeventGameing)
+- [DynamicFF](https://github.com/DynamicFastFlag)
+- [TnoobixRT](https://github.com/TnoobixRT)
+
+### 💡 Inspirations
+- [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+- [](https://github.com//)
+
+---
